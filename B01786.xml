@@ -1,0 +1,2199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of the subscribers of land and money towards a fund for the national land-bank</title>
+            <author>Briscoe, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01786</idno>
+            <idno type="STC">Wing B4752AA</idno>
+            <idno type="STC">ESTC R173060</idno>
+            <idno type="EEBO-CITATION">52528746</idno>
+            <idno type="OCLC">ocm 52528746</idno>
+            <idno type="VID">178710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178710)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2767:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of the subscribers of land and money towards a fund for the national land-bank</title>
+                  <author>Briscoe, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land Bank (London, England)</term>
+               <term>Land banks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb n="1" facs="tcp:178710:1" rendition="simple:additions"/>
+            <head>A LIST of the Names of the Subſcribers of <hi>Land</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ney</hi> towards a Fund for the <hi>National Land-Bank.</hi>
+            </head>
+            <p>
+               <hi>Note,</hi> Thoſe who are marked thus † are qualified to be Directors, having ſubſcribed 3000 <hi>l.</hi> Value: Thoſe marked thus * have no Vote.</p>
+            <list>
+               <head>A</head>
+               <item>† <hi>THE Honourable Dame</hi> Frances D' Aver<g ref="char:EOLhyphen"/>kirque.</item>
+               <item>† Sir Thomas Allen <hi>Baronet,</hi>
+               </item>
+               <item>† Sir John Auſten <hi>Bar.</hi>
+               </item>
+               <item>† Sir Edward Ayſcoghe,</item>
+               <item>† Dame Elizabeth Archer,</item>
+               <item>† William Allen <hi>Eſq;</hi>
+               </item>
+               <item>† Matthew Alured <hi>Eſq;</hi>
+               </item>
+               <item>† Charles Amhurſt <hi>Eſq;</hi>
+               </item>
+               <item>† Jeffery Amhurſt <hi>Eſq;</hi>
+               </item>
+               <item>† Gabriel Armiger <hi>Eſq;</hi>
+               </item>
+               <item>† Henry Aſhley <hi>Eſq;</hi>
+               </item>
+               <item>† William Atwood <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Auſten <hi>Eſq;</hi>
+               </item>
+               <item>† Henry Auſtin <hi>Eſq;</hi>
+               </item>
+               <item>† James Auſtin <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. William Allderſon,</item>
+               <item>† Mr. Samuel Alſton,</item>
+               <item>† Mrs. Elizabeth Ancher,</item>
+               <item>† Mr. Edward Arlibeare,</item>
+               <item>† Mr. James Aſhmore,</item>
+               <item>† Mr. Thomas Askham,</item>
+               <item>† Mr. Thomas Aſſheton,</item>
+               <item>† Mr. Edward Aſton,</item>
+               <item>† Mr. John Aſton,</item>
+               <item>† Mr. Lawrence Athorpe,</item>
+               <item>Edward Alſton <hi>Eſq;</hi>
+               </item>
+               <item>Robert Aſhton <hi>Eſq;</hi>
+               </item>
+               <item>John Aſhton <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Maurice Abbott,</item>
+               <item>Mr. Peter Albert,</item>
+               <item>Mr. James Allen,</item>
+               <item>Mr. William Allen,</item>
+               <item>Mrs. Elizabeth Allen,</item>
+               <item>Mr. Alexander Alley,</item>
+               <item>Mr. James Alpha,</item>
+               <item>Mr. John Andrews,</item>
+               <item>Mr. Samuel Antrim,</item>
+               <item>Mr. Nicholas Anſell,</item>
+               <item>Mr. Joſeph Anthony,</item>
+               <item>Mr. John Applebee,</item>
+               <item>Mr. William Arnald,</item>
+               <item>Mr. John Arthur,</item>
+               <item>Mr. Champion Aſhby,</item>
+               <item>Mr. Dingley Askham,</item>
+               <item>Mr. Thomas Atkin,</item>
+               <item>Mr. Thomas Atkinſon,</item>
+               <item>Mr. John Atterbury,</item>
+               <item>Mr. Robert Atwood,</item>
+               <item>Mr. William Aubrey,</item>
+               <item>Mr. Walter Avent,</item>
+               <item>* John Aleyn <hi>Eſq;</hi>
+               </item>
+               <item>* Mr. John Allen,</item>
+               <item>* Mr. Nicholas Allen,</item>
+               <item>* Mr. Matthew Alnwick,</item>
+               <item>* Mr. John Alſop,</item>
+               <item>* Mr. Iſaac Archer,</item>
+               <item>* Mr. John Aſhby,</item>
+               <item>* Mr. Richard Aſhdowne,</item>
+               <item>* Mr. Francis Aſſelinne,</item>
+               <item>* Mr. Jacob Aſſelin,</item>
+               <item>* Mr. Thomas Atkinſon.</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>† <hi>The Hon.</hi> Ph. Bertie <hi>Eſq;</hi>
+               </item>
+               <item>† Sir Charles Bickerſtaff,</item>
+               <item>† Sir Francis Bickley <hi>Bar.</hi>
+               </item>
+               <item>† Sir Walter Kirkham Blount,</item>
+               <item>† Sir John Bolls <hi>Bar.</hi>
+               </item>
+               <item>† Sir Henry Butler,</item>
+               <item>† Colonel Edward Berkely,</item>
+               <item>† Thomas Bard <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Barker <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Bendlowes <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Beverley <hi>Eſq;</hi>
+               </item>
+               <item>† Philip Bickerſtaff <hi>Eſq;</hi>
+               </item>
+               <item>† Roger Bodenham <hi>Eſq;</hi>
+               </item>
+               <item>† Nathaniel Booth <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Boteler <hi>Eſq;</hi>
+               </item>
+               <item>† Lawrence Braddon <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Bradrepp <hi>Eſq;</hi>
+               </item>
+               <item>† Ralph Brandling <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Brent <hi>Eſq;</hi>
+               </item>
+               <item>† William Brockman <hi>Eſq;</hi>
+               </item>
+               <item>† John Brome <hi>Eſq;</hi>
+               </item>
+               <item>† John Buggin <hi>Eſq;</hi>
+               </item>
+               <item>† Nathan Burdet <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Burgh <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Bury <hi>Eſq;</hi>
+               </item>
+               <item>† Amy Buſh <hi>Eſq;</hi>
+               </item>
+               <item>† Colonel James Boddington,</item>
+               <item>† Mr. Anthony Ball,</item>
+               <item>† Mr. Charles Bargrave,</item>
+               <item>† Mr. Thomas Barton,</item>
+               <item>† Mr. Simon Baxter,</item>
+               <item>† Mr. Nathaniel Beehoe,</item>
+               <item>† Mr. Thomas Bigg,</item>
+               <item>† Mr. Catterick Birkbeck,</item>
+               <item>† Mr. William Birde,</item>
+               <item>† Mr. Richard Blackam,</item>
+               <item>† Mr. John Blackler,</item>
+               <item>† Mr. Nathaniel Bladen,</item>
+               <item>† Mr. Joſeph <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ake,</item>
+               <item>† Mr. Richard Breton,</item>
+               <item>† Mr. John Briſcoe,</item>
+               <item>† Mr. William Brockman,</item>
+               <item>† Capt. John Bromwell,</item>
+               <item>† Mr. Charles Brown,</item>
+               <item>† Mr. Robert Barkham,</item>
+               <item>† Mr. Robert Burneby,</item>
+               <item>† Mr. Thomas Burneby,</item>
+               <item>† Mr. Obadiah Burnet,</item>
+               <item>† Mr. Samuel Blewitt,</item>
+               <item>† Mr. Charles Blunt,</item>
+               <item>† Mr. John Booth,</item>
+               <item>† Mr. Theophilus Boughey,</item>
+               <item>† Mr. Richard Bowater,</item>
+               <item>† Mr. Phineas Bowles,</item>
+               <item>Sir John Briſcoe,</item>
+               <item>Arthur Bury <hi>Doctor in Divinity,</hi>
+               </item>
+               <item>Sydenham Baker <hi>Eſq;</hi>
+               </item>
+               <item>George Barret <hi>Eſq;</hi>
+               </item>
+               <item>Charles Bawdes <hi>Eſq;</hi>
+               </item>
+               <item>John Beresford <hi>Eſq;</hi>
+               </item>
+               <item>Edward Blount <hi>Eſq;</hi>
+               </item>
+               <item>Charles Boules <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Buck <hi>Eſq;</hi>
+               </item>
+               <item>Tho. Burwell <hi>Doctor of Phyſick,</hi>
+               </item>
+               <item>Ralph Byde <hi>Eſq;</hi>
+               </item>
+               <item>Ralph Skinner Byde <hi>Eſq;</hi>
+               </item>
+               <item>S. B. <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Jeremiah Bague,</item>
+               <item>Mr. Baker,</item>
+               <item>Mr. John Baker,</item>
+               <item>Mr. Samuel Ball <hi>of Alton,</hi>
+               </item>
+               <item>Mr. Samuel Ball,</item>
+               <item>Mr. Thomas Ball,</item>
+               <item>Mr. Uriah Banks,</item>
+               <item>Mr. Thomas Barber,</item>
+               <item>Mr. John Barbot,</item>
+               <item>Mr. Ben. Barker,</item>
+               <item>Mr. John Barnard,</item>
+               <item>Mrs. Elianor Barnes,</item>
+               <item>Mr. Henry Barton,</item>
+               <item>Mr. Nathaniel Barton,</item>
+               <item>Mr. Henry Barwell,</item>
+               <item>Mr. John Bate,</item>
+               <item>Mr. James Batte,</item>
+               <item>Mr. Peter Beavis,</item>
+               <item>Mrs. Sarah Becher,</item>
+               <item>Mr. Thomas Beckley,</item>
+               <item>Mr. Samuel Bedwell <hi>jun.</hi>
+               </item>
+               <item>Mr. Richard Beel,</item>
+               <item>Mr. Henry Bell,</item>
+               <item>Mr. Edward Bellamy,</item>
+               <item>Mr. Henry Beeſley,</item>
+               <item>Mr. John Benfon,</item>
+               <item>Mr. Alexander Beresford,</item>
+               <item>Mr. John Berry,</item>
+               <item>Mr. Nich. Bettereſs,</item>
+               <item>Mr. William Bettereſs,</item>
+               <item>Mr. John Bigg,</item>
+               <item>Mrs. Jane Bligh,</item>
+               <item>Mr. William Bliſſe,</item>
+               <item>Mr. Philip Bliſſe,</item>
+               <item>Mr. John Blundell.</item>
+               <item>Mr. Daniel Boldero</item>
+               <item>Mr. Chriſtopher Boſtock,</item>
+               <item>Mr. Richard Boſuſtowe,</item>
+               <item>Mr. Richard Boucher,</item>
+               <item>Mr. David Devarenne la Bre<g ref="char:EOLhyphen"/>tonniere,</item>
+               <item>Mr. Richard Braine,</item>
+               <item>Mr. Samuel Briggs,</item>
+               <item>Mr. John Bright,</item>
+               <item>Mr. Philip Briſcoe,</item>
+               <item>Mr. Thomas Brown,</item>
+               <item>Mr. Joſeph Browne,</item>
+               <item>Mr. John Brownell,</item>
+               <pb n="2" facs="tcp:178710:2"/>
+               <item>Mr. John Browning <hi>Attorney,</hi>
+               </item>
+               <item>Mr. John Browning <hi>of Canterb.</hi>
+               </item>
+               <item>Mr. J. Bryan,</item>
+               <item>Mr. Maximilian Buck,</item>
+               <item>Mr. R. Bull,</item>
+               <item>Mr. Peter Buller,</item>
+               <item>Mr. Philip Burgis,</item>
+               <item>Mr. William Burſlein,</item>
+               <item>Mr. John Buſhnell,</item>
+               <item>Mr. James Byar,</item>
+               <item>Mr. John Byng,</item>
+               <item>* Mrs. Bridget Bagnall,</item>
+               <item>* Mr. Richard Baily,</item>
+               <item>* Mr. Thomas Bamfeild,</item>
+               <item>* Mr. Robert Barker,</item>
+               <item>* Mr. Nathaniel Barton,</item>
+               <item>* Mr. William Barton,</item>
+               <item>* Mr. Thomas Barton,</item>
+               <item>* Mr. Stephen Baurdley,</item>
+               <item>* Mr. Philip Bayley,</item>
+               <item>* Mr. Jacob de Bechevel,</item>
+               <item>* Mr. Philip Bertell,</item>
+               <item>* Mr. John Bevans,</item>
+               <item>* Mr. Bezard,</item>
+               <item>* Mr. Richard Bigden,</item>
+               <item>* Mr. George Bird,</item>
+               <item>* Mr. Theophile Blanc,</item>
+               <item>* Mr. William Bland,</item>
+               <item>* Mr. James Auguſtus Blonde,</item>
+               <item>* Mr. John Boſely,</item>
+               <item>* Mr. T. B.</item>
+               <item>* Mr. Bourges,</item>
+               <item>* Mr. Thomas Bradley,</item>
+               <item>* Mr. William Brewer,</item>
+               <item>* Mr. Edward Bridge,</item>
+               <item>* Mr. Thomas Bromfeild,</item>
+               <item>* Mr. Richard Bromhall,</item>
+               <item>* Mr. John Brooke,</item>
+               <item>* Mr. Thomas Bubb,</item>
+               <item>* Mr. Thomas Budds,</item>
+               <item>* Mr. Du Perreau Buor,</item>
+               <item>* Mr. Jerman Burgis,</item>
+               <item>* Mr. Robert Buſcough.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>† <hi>The Right Hon.</hi> Hugh <hi>Lord</hi> Clifford <hi>Baron of</hi> Chudleigh.</item>
+               <item>† Sir William Clayter <hi>Bar.</hi>
+               </item>
+               <item>† Sir Talbot Clerke <hi>Baronet,</hi>
+               </item>
+               <item>† Sir James Collwell <hi>Bar.</hi>
+               </item>
+               <item>† Sir John Conway <hi>Baronet,</hi>
+               </item>
+               <item>† Sir John Cotton <hi>Baronet,</hi>
+               </item>
+               <item>† Sir Pury Cuſt <hi>Baronet,</hi>
+               </item>
+               <item>† Sir Thomas Culpeper <hi>Kt.</hi>
+               </item>
+               <item>† Sir Dudley Cullum,</item>
+               <item>† Thomas Carter <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Clarke <hi>Eſq;</hi>
+               </item>
+               <item>† Chriſtopher Clithero <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Cobb <hi>Eſq;</hi>
+               </item>
+               <item>† Samuel Coddrington <hi>Eſq;</hi>
+               </item>
+               <item>† Dr. William Coker,</item>
+               <item>† Robert Coker <hi>Eſq;</hi>
+               </item>
+               <item>† Harry Conſtantine <hi>Eſq;</hi>
+               </item>
+               <item>† Chriſtopher Crow <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. John Caine,</item>
+               <item>† Mr. Paul Calton,</item>
+               <item>† Mr. Felix Calvert,</item>
+               <item>† Mr. William Calvert,</item>
+               <item>† Mr. John Caryer,</item>
+               <item>† Mr. John Caſon,</item>
+               <item>† Mr. Edward <hi>&amp;</hi> John Cheeke,</item>
+               <item>† Mr. Matthew Childe,</item>
+               <item>† Mr. Joſiah Chitty,</item>
+               <item>† Mr. John Chriſtie,</item>
+               <item>† Mr. George Clare,</item>
+               <item>† Mr. Samuel Clarke,</item>
+               <item>† Mrs. Margaret Clerke,</item>
+               <item>† Mr. Timothy Cock,</item>
+               <item>† Mr. Gilbert Cocks,</item>
+               <item>† Mr. George Cockram,</item>
+               <item>† Mr. John Cole,</item>
+               <item>† Mr. Matthew Collet,</item>
+               <item>† Mr. Nick Collins,</item>
+               <item>† Mrs. Elizabeth Conway,</item>
+               <item>† Mr. Richard Cooper,</item>
+               <item>† Mr. John Coppin,</item>
+               <item>† Mr. Cuthbert Coteſworth,</item>
+               <item>† Mr. John Cotton,</item>
+               <item>† Mr. Gilbert Cox,</item>
+               <item>† Mr. Richard Coxeter,</item>
+               <item>† Mr. Samuel Criſp,</item>
+               <item>† Mr. Pheſaunt Criſp,</item>
+               <item>† Mr. Richard Croſſman,</item>
+               <item>† Mr. Benjamin Cudworth,</item>
+               <item>† Mr. Norton Curteis,</item>
+               <item>Henry Cornwal <hi>Doctor of Laws.</hi>
+               </item>
+               <item>Henry Carew <hi>Eſq;</hi>
+               </item>
+               <item>William Caſſy <hi>Eſq;</hi>
+               </item>
+               <item>Robert Cole <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Colſton <hi>Eſq;</hi>
+               </item>
+               <item>John Conant <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Condon <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Cooper <hi>Eſq;</hi>
+               </item>
+               <item>James Cripps <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Nathaniel Camfeild,</item>
+               <item>Mr. Francis Camfeild,</item>
+               <item>Mr. Giles Campion,</item>
+               <item>Mr. Thomas Capſtack,</item>
+               <item>Mr. George Carleton,</item>
+               <item>Mr. Thomas Carpenter,</item>
+               <item>Mr. Henry Carrington,</item>
+               <item>Mr. William Cartwright,</item>
+               <item>Mr. John Carter,</item>
+               <item>Mr. Charles Carter,</item>
+               <item>Mrs. Ann Carter,</item>
+               <item>Mr. Thomas Cary,</item>
+               <item>Mr. William Casborn,</item>
+               <item>Mr. William Caſon,</item>
+               <item>Mr. Everard Cater,</item>
+               <item>Mr. Jaques de Caux,</item>
+               <item>Mr. Thomas Chamberlain,</item>
+               <item>Mr. John Chaplin,</item>
+               <item>Mr. William Chapman,</item>
+               <item>Mr. William Chaſe,</item>
+               <item>Mr. Richard Chevall,</item>
+               <item>Mr. William Chevall,</item>
+               <item>Mr. Thomas Church,</item>
+               <item>Mr. Chriſtopher Clarke,</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Clarke,</item>
+               <item>Mr. Edmond Clarke,</item>
+               <item>Mr. Henry Clarke,</item>
+               <item>Mr. Thomas Clarke,</item>
+               <item>Mr. William Cleaver,</item>
+               <item>Mr. George Clerke,</item>
+               <item>Mrs. Elizabeth Clerke,</item>
+               <item>Mr. William Clement,</item>
+               <item>Mr. John Clopton,</item>
+               <item>Mr. John Clinch,</item>
+               <item>Mr. William Clutterbuck,</item>
+               <item>Mr. Caleb Coatſworth,</item>
+               <item>Mr. William Coatſworth,</item>
+               <item>Mrs. Elizabeth Cobb,</item>
+               <item>Mr. Iſaac Cocks,</item>
+               <item>Mr. John Cocks,</item>
+               <item>Mrs. Maria Coke,</item>
+               <item>Mr. Nathaniel Collins,</item>
+               <item>Mr. Thomas Combe,</item>
+               <item>Mr. Walter Combes,</item>
+               <item>Mr. Richard Comley,</item>
+               <item>Mr. Robert Comport,</item>
+               <item>Mr. Francis Comyn,</item>
+               <item>Mr. Richard Conſtable,</item>
+               <item>Mr. William Cony,</item>
+               <item>Mr. Stephen Cooke,</item>
+               <item>Mr. Chriſtopher Cope,</item>
+               <item>Mr. William Corbet,</item>
+               <item>Mr. Oliver Corr,</item>
+               <item>Mr. S. C.</item>
+               <item>Mr. John Cranmer,</item>
+               <item>Mr. John Crocker,</item>
+               <item>Mr. Thomas Croſsfeild,</item>
+               <item>Mr. Benjamin Croſs,</item>
+               <item>Mr. Joſhua Croſſe,</item>
+               <item>Mr. Thomas Croſſe,</item>
+               <item>Mr. Henry Cudmore,</item>
+               <item>Mr. Nicholas Cullen,</item>
+               <item>Mr. John Cunliffe,</item>
+               <item>* Mr. Abraham Cardell,</item>
+               <item>* Mr. Richard Caſtell,</item>
+               <item>* Mr. Richard Caſtelman,</item>
+               <item>* Mr. Daniel Chadock,</item>
+               <item>* Mr. John Chamberlayne,</item>
+               <item>* Mr. Robert Chandler,</item>
+               <item>* Mr. John Charron,</item>
+               <item>* Mr. William Chriſmas,</item>
+               <item>* Mrs. Jane Church,</item>
+               <item>* Mr. Joſhua Clarke,</item>
+               <item>* Mr. John Clark,</item>
+               <item>* Mr. John Clark <hi>of Hoddeſdon,</hi>
+               </item>
+               <item>* Mr. Matthew Clerke,</item>
+               <item>* Mrs. Elizabeth Collet,</item>
+               <item>* Mr. Thomas Coulthurſt,</item>
+               <item>* Mr. Thomas Coker,</item>
+               <item>* Mr. Joſeph Collet,</item>
+               <item>* Mr. Henry Collier,</item>
+               <item>* Mr. Henry Connyer,</item>
+               <item>* Mr. Thomas Corbet,</item>
+               <item>* Mr. Jaques Corbiere,</item>
+               <item>* Mr. Bernard Coudert,</item>
+               <item>* Mr. Ducaſſe de la Couture,</item>
+               <item>* Mr. James Cox,</item>
+               <item>* Mr. Robert Craven,</item>
+               <item>* Mr. William Crayford,</item>
+               <item>* Mr. Godfrey Croſsland.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>† <hi>The Honourable</hi> Charles Dy<g ref="char:EOLhyphen"/>mock <hi>Eſq;</hi>
+               </item>
+               <item>† Sir Bazil Dixwell <hi>Bar.</hi>
+               </item>
+               <item>† Sir William Dodſon,</item>
+               <item>† Sir Richard Downton,</item>
+               <item>† Sir Matthew Dudley <hi>Bar.</hi>
+               </item>
+               <item>† Robert Danby <hi>Eſq;</hi>
+               </item>
+               <item>† Chriſtopher Davies <hi>Eſq;</hi>
+               </item>
+               <item>† John Doulbon <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Ducket <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Dyoſe <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Joſeph Danbrine,</item>
+               <item>† Mr. Paul Darby,</item>
+               <item>† Mr. John Davies,</item>
+               <item>† Mr. Chriſtopher Deane,</item>
+               <item>† Mr. William Delaune,</item>
+               <pb n="3" facs="tcp:178710:2" rendition="simple:additions"/>
+               <item>† Mrs. Ann Delaune,</item>
+               <item>† Mr. David Denham,</item>
+               <item>† Mr. Thomas Dennis,</item>
+               <item>† Mr. John Dent,</item>
+               <item>† Mr. John Dey,</item>
+               <item>† Mr. Iſrael Dodſworth,</item>
+               <item>† Mr. Robert Douglaſs,</item>
+               <item>† Mr. Manſel Duckett,</item>
+               <item>Sir Ralph Dutton <hi>Baronet.</hi>
+               </item>
+               <item>John Daniel <hi>Eſq;</hi>
+               </item>
+               <item>William Delaune <hi>Eſq;</hi>
+               </item>
+               <item>Michael Dew <hi>Eſq;</hi>
+               </item>
+               <item>Colonel Benjamin Dry,</item>
+               <item>John Ducket <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Edward Dale,</item>
+               <item>Mr. John Darby,</item>
+               <item>Mr. Thomas Darby,</item>
+               <item>Mr. John James David,</item>
+               <item>Mr. Stephen Dawſon,</item>
+               <item>Mr. Richard Davis,</item>
+               <item>Mr. Thomas Deane,</item>
+               <item>Mr. William Deane,</item>
+               <item>Mr. Henry Deeds,</item>
+               <item>Mr. William Deeds,</item>
+               <item>Mr. George Delaune,</item>
+               <item>Mr. Thomas Denning,</item>
+               <item>Mr. William Derijck,</item>
+               <item>Mr. Thomas Dermer <hi>jun.</hi>
+               </item>
+               <item>Mr. Samuel Deſanthuns,</item>
+               <item>Mr. William Detereth,</item>
+               <item>Mr. John Dillingham,</item>
+               <item>Mr. George Nico. Dobbertin,</item>
+               <item>Mr. William Dodd,</item>
+               <item>Mr. Robert Donne,</item>
+               <item>Mr. Anth. Hullin Dorval,</item>
+               <item>Mr. Robert Douce,</item>
+               <item>Mr. Thomas Douling,</item>
+               <item>Mr. Benj. Drake,</item>
+               <item>Mr. Joſeph Drake,</item>
+               <item>Mr. Thomas Drake,</item>
+               <item>Mr. Joſhua Dreyton,</item>
+               <item>Mr. Michael Drew,</item>
+               <item>Mr. John Drigues,</item>
+               <item>Mr. Robert Drinkwater,</item>
+               <item>Mr. Edward Droper,</item>
+               <item>Mr. Abraham Dudley,</item>
+               <item>Mr. Louis Dugard,</item>
+               <item>Mr. Thomas Dugdale,</item>
+               <item>Mr. John Dugdalle,</item>
+               <item>Mr. Joſhua Dunn,</item>
+               <item>Mr. John Dunton,</item>
+               <item>Mr. Richard Dyot,</item>
+               <item>* Mr. Peter Daniel,</item>
+               <item>* Mr. Necom Dawſon,</item>
+               <item>* Mr. Robert Dawſon <hi>jun.</hi>
+               </item>
+               <item>* Mr. David Denne,</item>
+               <item>* Mr. John Denning,</item>
+               <item>* Mr. Peter Deſchamps,</item>
+               <item>* Mr. Abraham Dugard.</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>† Sir Hump. Edwin <hi>Kt. &amp; Ald.</hi>
+               </item>
+               <item>† Sir John Edwards,</item>
+               <item>† Sir William Elliot,</item>
+               <item>† The Mayor, Bayliffs &amp; Com<g ref="char:EOLhyphen"/>monalty of the City of <hi>Exon.</hi>
+               </item>
+               <item>† Thomas Edgerley <hi>Eſq;</hi>
+               </item>
+               <item>† George Errington <hi>Eſq;</hi>
+               </item>
+               <item>† Geo. Etkins <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Francis Ellaker,</item>
+               <item>† Mr. George Elcock,</item>
+               <item>† Mr. John Emilie,</item>
+               <item>† Mr. John Eſſington,</item>
+               <item>† Mr. John Eyſam,</item>
+               <item>† Capt. William Eyton,</item>
+               <item>Barnard Ellis <hi>Eſq;</hi>
+               </item>
+               <item>Richard Ellſworth <hi>Eſq;</hi>
+               </item>
+               <item>Mr. John Edlyne,</item>
+               <item>Mr. Giles Edwards,</item>
+               <item>Mr. Jonathan Edwards,</item>
+               <item>Mr. Henry Eſday,</item>
+               <item>Mr. Matthew Evans,</item>
+               <item>* Dr. Samuel Eſteve,</item>
+               <item>* John Elwill <hi>Eſq;</hi>
+               </item>
+               <item>* Mrs. Mary Ellis,</item>
+               <item>* Mrs. Magdalen Ernault,</item>
+               <item>* Mr. Edward Ettrick,</item>
+               <item>* Mr. Anthony Evernden.</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>† Henry Fairfax <hi>Eſq;</hi>
+               </item>
+               <item>† John Fleming <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Ford <hi>Eſq;</hi>
+               </item>
+               <item>† Ralph Fretwell <hi>Eſq;</hi>
+               </item>
+               <item>† Capt. Robert Fairfax,</item>
+               <item>† Mr. R. F.</item>
+               <item>† Mr. William Fairfax,</item>
+               <item>† Mr. Tho. Farnborough,</item>
+               <item>† Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Flavel,</item>
+               <item>† Mr. William Foorth,</item>
+               <item>† Mr. Edward Ford,</item>
+               <item>† Mr. Thomas Ford,</item>
+               <item>† Mr. Anthony Fothergill,</item>
+               <item>† Mrs. Elizabeth Fountain,</item>
+               <item>† Mr. William Freebodys,</item>
+               <item>† Mr. Edward Fuller,</item>
+               <item>† Mr. John Full,</item>
+               <item>John Brett Fiſher <hi>Eſq;</hi>
+               </item>
+               <item>John Fitch <hi>Eſq;</hi>
+               </item>
+               <item>Col. Thomas Fairfax,</item>
+               <item>Mr. Stephen Fagett,</item>
+               <item>Mr. Tho. Fairfax,</item>
+               <item>Mr. Peter Farrell,</item>
+               <item>Mr. Richard Farewell,</item>
+               <item>Mr. Geo. Farewell,</item>
+               <item>Mr. Tho. Fauconberge,</item>
+               <item>Mr. Peter Fauconnier,</item>
+               <item>Mr. Anthony Faure,</item>
+               <item>Mr. William Fazakerly,</item>
+               <item>Mr. T. F.</item>
+               <item>Mr. Ralph Feild,</item>
+               <item>Mr. John Ferrers,</item>
+               <item>Mr. David Fifield,</item>
+               <item>Mr. Robert Finch,</item>
+               <item>Mr. Edward Finch,</item>
+               <item>Mr. Peirce Fineux,</item>
+               <item>Mr. Robert Fiſh,</item>
+               <item>Mr. William Fletcher,</item>
+               <item>Mrs. Jane Fletcher,</item>
+               <item>Mr. John Fletcher,</item>
+               <item>Mr. Daniel Foe,</item>
+               <item>Mr. Thomas Foord,</item>
+               <item>Mr. Edmond Forteſcue,</item>
+               <item>Mr. John Fownes,</item>
+               <item>Mr. Daniel Fox,</item>
+               <item>Mr. Thomas Foxwell,</item>
+               <item>Mr. Marmaduke Francis,</item>
+               <item>Mr. John Fuller,</item>
+               <item>* James Farewell <hi>Eſq;</hi>
+               </item>
+               <item>* Mr. Robert Farrad,</item>
+               <item>* Mr. Simon Fairweather,</item>
+               <item>* Mr. Mildmay Fane,</item>
+               <item>* Mr. John Farſy,</item>
+               <item>* Mr. Edward Fendall,</item>
+               <item>* Mr. Richard Fenner,</item>
+               <item>* Mr. Thomas Ferrers,</item>
+               <item>* Mr. Edward Fleetham,</item>
+               <item>* Mr. William Fludyer,</item>
+               <item>* Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fountaine,</item>
+               <item>* Mr. Daniel Freeman.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>† <hi>The H.</hi> Bernard Granville <hi>Eſq;</hi>
+               </item>
+               <item>† Sir Richard Grayham <hi>Bar.</hi>
+               </item>
+               <item>† Sir Samuel Gerrard,</item>
+               <item>† Sir R. G.</item>
+               <item>† Sir Richard Gipps Kt.</item>
+               <item>† Tho. Goodinge Serj. at Law,</item>
+               <item>† John Glanville <hi>Eſq;</hi>
+               </item>
+               <item>† F. G. <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Glemham <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Goodall <hi>Eſq;</hi>
+               </item>
+               <item>† Henry Gore <hi>Eſq;</hi>
+               </item>
+               <item>† Samuel Grant <hi>Eſq;</hi>
+               </item>
+               <item>† John Grey <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Grey <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. John Garret,</item>
+               <item>† Mrs. Elioner Gawdy,</item>
+               <item>† Mr. John Gerrard,</item>
+               <item>† Mr. Ralph Gerrard,</item>
+               <item>† Mr. John Giles,</item>
+               <item>† Mr. William Gilmore,</item>
+               <item>† Mr. Tho. Ginder,</item>
+               <item>† Mr. Tho. Goddard,</item>
+               <item>† Mr. Richard Godfrey,</item>
+               <item>† Mr. Thomas Goodall,</item>
+               <item>† Mr. Thomas Goodinge,</item>
+               <item>† Mr. John Goodyer,</item>
+               <item>† Mr. John Goudet,</item>
+               <item>† Mr. John Grainger,</item>
+               <item>† Mr. Criſp Grange,</item>
+               <item>† Mr. John Grant,</item>
+               <item>† Mr. Richard Green,</item>
+               <item>† Mr. Charles Gregory,</item>
+               <item>† Mr. Thomas Griffith,</item>
+               <item>† Mrs. Frances Guiſe,</item>
+               <item>The Lady Ann Gould,</item>
+               <item>James Gendrault <hi>Eſq;</hi>
+               </item>
+               <item>Edmond Gibbons <hi>Eſq;</hi>
+               </item>
+               <item>Robert Gibbon <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Nicholas Gambier,</item>
+               <item>Mr. Richard Gammon,</item>
+               <item>Mr. William Garbott,</item>
+               <item>Mr. John Gardiner,</item>
+               <item>Mr. Hugh Garret,</item>
+               <item>Mr. Samuel Gary,</item>
+               <item>Mr. Ebenezer Gatton,</item>
+               <item>Mr. John Gay,</item>
+               <item>Mrs. Martha Gay,</item>
+               <item>Mr. Joſhuah Gee,</item>
+               <item>Mrs. Ann Gendrault,</item>
+               <item>Mr. Lewis Gervaize,</item>
+               <item>Mr. Charles Gery,</item>
+               <item>Mr. Walter Getſins,</item>
+               <item>Mr. John Ghiſlin,</item>
+               <item>Mr. Edward Gibſon,</item>
+               <item>Mr. Geo. Ginder,</item>
+               <item>Mr. Peter Glaſebroke,</item>
+               <item>Mr. Peter Gleane,</item>
+               <pb n="4" facs="tcp:178710:3"/>
+               <item>Mr. James Goddon,</item>
+               <item>Mr. Jeremiah Godfrey,</item>
+               <item>Mrs. Elizabeth Godfrey,</item>
+               <item>Mr. William Gonvile,</item>
+               <item>Mr. James Gooding,</item>
+               <item>Mr. Thomas Goodwin,</item>
+               <item>Mr. William Goward,</item>
+               <item>Mr. Joſeph Grange,</item>
+               <item>Mr. Hugh Granger,</item>
+               <item>Mr. Mathias Gray,</item>
+               <item>Mr. Samuel Green,</item>
+               <item>Mr. John Greenfeild,</item>
+               <item>Mr. William Greenfeild,</item>
+               <item>Mrs. Alice Gregory,</item>
+               <item>Mr. Charles Greſley,</item>
+               <item>Mr. John Griffin,</item>
+               <item>Mr. John Grocer,</item>
+               <item>Mr. John Grover,</item>
+               <item>Mr. Timothy Gully,</item>
+               <item>Mr. John Gwillim,</item>
+               <item>* Dr. John Griffith,</item>
+               <item>* Mr. Lewis Galand,</item>
+               <item>* Mr. Peter Garnier,</item>
+               <item>* Mr. Alexander Gaune,</item>
+               <item>* Mr. William Gery,</item>
+               <item>* Mr. Edward Gibbon,</item>
+               <item>* Mr. Viceſimus Gibſon,</item>
+               <item>* Mrs. Priſcilla Godfrey,</item>
+               <item>* Mr. Stephen Godin,</item>
+               <item>* Mr. William Goodere,</item>
+               <item>* Mr. Nicholas Goodwin,</item>
+               <item>* Mr. Samuel Goodwin,</item>
+               <item>* Mr. Hugh Grange,</item>
+               <item>* Mr. Thomas Grange,</item>
+               <item>* Mr. Goddard Gravenor,</item>
+               <item>* Mrs. Mary Graves,</item>
+               <item>* Mr. Anthony Green,</item>
+               <item>* Mr. John Greenhill,</item>
+               <item>* Mr. Thomas Gregory,</item>
+               <item>* Mr. Edward Grudgefeild,</item>
+               <item>* Mr. Peter Guion,</item>
+               <item>* Mr. Nath. Gwillym,</item>
+               <item>* Mr. John Gwilt.</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>† <hi>The R. Honourable</hi> Charles <hi>Ld.</hi> Howard, <hi>Baron of</hi> Eſcricke;</item>
+               <item>† <hi>The H.</hi> Charles Howard <hi>Eſq;</hi>
+               </item>
+               <item>† <hi>The H.</hi> Craven Howard <hi>Eſq;</hi>
+               </item>
+               <item>† Sir William Halford,</item>
+               <item>† Sir Dennis Hampſon <hi>Kt.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Chriſtopher Hatton <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Charles Holt <hi>Baronet,</hi>
+               </item>
+               <item>† <hi>Sir</hi> Scroop How,</item>
+               <item>† <hi>Sir</hi> Samuel Husbands,</item>
+               <item>† Charles Halford <hi>Eſq;</hi>
+               </item>
+               <item>† John Hall <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Harriſon <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Hart <hi>Eſq;</hi>
+               </item>
+               <item>† Penyſton Haſtings <hi>Eſq;</hi>
+               </item>
+               <item>† Iſaac Hawkins <hi>Eſq;</hi>
+               </item>
+               <item>† Gideon Haydon <hi>Eſq;</hi>
+               </item>
+               <item>† John Hedg <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Hide <hi>Eſq;</hi>
+               </item>
+               <item>† George Higgons <hi>Eſq;</hi>
+               </item>
+               <item>† George Hitchcock <hi>Eſq;</hi>
+               </item>
+               <item>† John Hodges <hi>Eſq;</hi>
+               </item>
+               <item>† John Hody <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Hookes <hi>Eſq;</hi>
+               </item>
+               <item>† John Hopwood <hi>Eſq;</hi>
+               </item>
+               <item>† Charles Hore <hi>Eſq;</hi>
+               </item>
+               <item>† John Hoskins <hi>Eſq;</hi>
+               </item>
+               <item>† John Hunt <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Hyne <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Humphrey Hackſhaw,</item>
+               <item>† Mr. Robert Hackſhaw,</item>
+               <item>† Mrs. Sarah Hales,</item>
+               <item>† Mr. Joſeph Hardey,</item>
+               <item>† Mr. John Harriſon,</item>
+               <item>† Mr. Ralph Harwood,</item>
+               <item>† Mr. Thomas Heath,</item>
+               <item>† Mr. Joſeph Henley,</item>
+               <item>† Mr. Robert Heyſham,</item>
+               <item>† Mr. Whitfield Heyter,</item>
+               <item>† Mr. David Heywood,</item>
+               <item>† Mr. Edmond Hickeringhill,</item>
+               <item>† Mr. John Higham,</item>
+               <item>† Mr. John Highlord,</item>
+               <item>† Mr. Richard Holt,</item>
+               <item>† Mr. John Hopkins,</item>
+               <item>† Mr. Edward Huddleſton,</item>
+               <item>† Mr. Robert Hulſon,</item>
+               <item>† Mrs. Ann Hurdman,</item>
+               <item>Urban Hall <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Edward Haberfield,</item>
+               <item>
+                  <hi>Mr.</hi> Edward Hade,</item>
+               <item>
+                  <hi>Mr.</hi> John Hancock,</item>
+               <item>
+                  <hi>Mr.</hi> James Harding,</item>
+               <item>
+                  <hi>Mr.</hi> Henry Harding,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Harding,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Harnage,</item>
+               <item>
+                  <hi>Mr.</hi> Henry Harris,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Harris,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Harriſon,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Harvey,</item>
+               <item>
+                  <hi>Mr.</hi> Samuel Harwar,</item>
+               <item>
+                  <hi>Mr.</hi> Jacob Harwood,</item>
+               <item>
+                  <hi>Mr.</hi> Edmond Haſelwood,</item>
+               <item>
+                  <hi>Mr.</hi> Peter Hatbert,</item>
+               <item>
+                  <hi>Mr.</hi> Edward Hatton,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Hawkeſworth,</item>
+               <item>
+                  <hi>Mr.</hi> Nicholas Hawkins,</item>
+               <item>
+                  <hi>Mr.</hi> James Hayden,</item>
+               <item>
+                  <hi>Mr.</hi> Robert Haynes,</item>
+               <item>
+                  <hi>Mr.</hi> Nicholas Hayward,</item>
+               <item>
+                  <hi>Mr.</hi> William Hedſall,</item>
+               <item>
+                  <hi>Mr.</hi> Bedingfeild Heigham <hi>ſen.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Joſeph Helby,</item>
+               <item>
+                  <hi>Mr.</hi> Allen Henman,</item>
+               <item>
+                  <hi>Mr.</hi> William Herſe,</item>
+               <item>
+                  <hi>Mr.</hi> John Heywood,</item>
+               <item>
+                  <hi>Mr.</hi> John Hill,</item>
+               <item>
+                  <hi>Mr.</hi> Charles Hills,</item>
+               <item>
+                  <hi>Mr.</hi> Robert Hilton,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Hitch,</item>
+               <item>
+                  <hi>Mr.</hi> John Hobbs,</item>
+               <item>
+                  <hi>Mr.</hi> Robert Holbrocke,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Holden,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Hollis <hi>jun.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Jonathan Holloway,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Holman,</item>
+               <item>
+                  <hi>Mr.</hi> Barton Holyday,</item>
+               <item>
+                  <hi>Mr.</hi> John Hood,</item>
+               <item>
+                  <hi>Mr.</hi> John Horne,</item>
+               <item>
+                  <hi>Mr.</hi> William Horneblower,</item>
+               <item>
+                  <hi>Mr.</hi> Noe Houſſage,</item>
+               <item>
+                  <hi>Mr.</hi> George Howard,</item>
+               <item>
+                  <hi>Mr.</hi> William Huggeſſen,</item>
+               <item>
+                  <hi>Mr.</hi> Hugh Hughes,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Humphreys,</item>
+               <item>
+                  <hi>Mr.</hi> John Hunniades,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Hunt,</item>
+               <item>
+                  <hi>Mr.</hi> Henry Hunt,</item>
+               <item>
+                  <hi>Mr.</hi> William Hunt,</item>
+               <item>
+                  <hi>Mrs.</hi> Ann Hurdman,</item>
+               <item>Mr. James Hutton,</item>
+               <item>Mr. H. Hyde,</item>
+               <item>Mr. William Hynſley,</item>
+               <item>* Mr. John Haling,</item>
+               <item>* Mr. John Hall,</item>
+               <item>* Mr. Francis Hall,</item>
+               <item>* Mr. Abraham Hallee,</item>
+               <item>* Mr. Joſeph Harding,</item>
+               <item>* Mr. Richard Harlow,</item>
+               <item>* Mr. Henry Harper,</item>
+               <item>* Mrs. Alice Harriſon,</item>
+               <item>* Mr. John Harriſon,</item>
+               <item>* Mr. Zerviah Harriſon,</item>
+               <item>* Mr. Henry Hartſhorne,</item>
+               <item>* Mrs. Louis Hernery,</item>
+               <item>* Mr. John Heron,</item>
+               <item>* Mr. John Hickman,</item>
+               <item>* Mr. William Hill,</item>
+               <item>* Mr. John Hills,</item>
+               <item>* Mrs. Elizabeth Hodges,</item>
+               <item>* Mr. John Hollingberry,</item>
+               <item>* Mr. Nathaniel Hollis,</item>
+               <item>* Mr. John Homerſham,</item>
+               <item>* Mr. Charles Hopſon,</item>
+               <item>* Mr. Leonard Hotchkis,</item>
+               <item>* Mr. Thomas Houghton,</item>
+               <item>* Mrs. Eliz. &amp; Doroth. Hoyle,</item>
+               <item>* Mr. Richard Hunt,</item>
+               <item>* Mr. Robert Hunter,</item>
+               <item>* Mrs. Margaret Hyde.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>† <hi>Sir</hi> Matthew Jenniſon,</item>
+               <item>† Thomas Jackſon <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Jones <hi>Eſq;</hi>
+               </item>
+               <item>† Ger. Ireton <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Tho. Jackſon <hi>of Eſſex,</hi>
+               </item>
+               <item>† Mr. Robert Jackſon,</item>
+               <item>† Mr. Alexander James,</item>
+               <item>† Mrs. Mary Jennings,</item>
+               <item>† Mr. Henry Jones,</item>
+               <item>† Mr. George Juyce,</item>
+               <item>Roger Jenyns <hi>Eſq;</hi>
+               </item>
+               <item>Robert Jones <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Chriſtopher Jackſon,</item>
+               <item>Mr. George Jacſon,</item>
+               <item>Mr. Tho. Jackſon <hi>Wheel-wright,</hi>
+               </item>
+               <item>Mr. John Jackſon,</item>
+               <item>Mr. Samuel James,</item>
+               <item>Mr. Robert Jenkin,</item>
+               <item>Mr. Thomas Jenkin,</item>
+               <item>Mr. Thomas Immyns,</item>
+               <item>Mr. Oliver John,</item>
+               <item>Mr. William Jones,</item>
+               <item>Mr. John Jones,</item>
+               <item>Mr. Thomas Jordan,</item>
+               <item>Mr. Thomas Juyce,</item>
+               <item>* Mr. Chriſtopher Inman,</item>
+               <item>* Mr. Peter Johnſon,</item>
+               <item>* Mr. John Johnſon,</item>
+               <item>* Mr. Edward Jones,</item>
+               <item>* Mr. Lewellin Jones.</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>† Charles Kirkham <hi>Eſq;</hi>
+               </item>
+               <item>† Chriſtopher Knight <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Matthew Kent,</item>
+               <item>† Mr. John Kingsford,</item>
+               <pb n="5" facs="tcp:178710:3" rendition="simple:additions"/>
+               <item>† Mr. Peter King,</item>
+               <item>Mr. Andr. Karne,</item>
+               <item>Mr. George Karver,</item>
+               <item>Mr. John Karver,</item>
+               <item>Mr. Edmond Keene,</item>
+               <item>Mrs. Ann Kemble,</item>
+               <item>Mr. Richard Kemble,</item>
+               <item>Mr. Arthur Key,</item>
+               <item>Mr. Henry Kiffin,</item>
+               <item>Mr. Henry Kingſley,</item>
+               <item>Mr. Francis Kirby,</item>
+               <item>Mr. Robert Knight,</item>
+               <item>Mr. John Knight,</item>
+               <item>Mr. Thomas Knight,</item>
+               <item>Mr. Gibert Knowler,</item>
+               <item>* Mrs. Mary Knight.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>† <hi>The R. Hon.</hi> Robert <hi>Ld</hi> Rigd<g ref="char:EOLhyphen"/>way, <hi>Earl of</hi> Londonderry;</item>
+               <item>† Thomas Lake <hi>Eſq;</hi>
+               </item>
+               <item>† George Langton <hi>Eſq;</hi>
+               </item>
+               <item>† Peter de Lannoy <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Lawrence <hi>Eſq;</hi>
+               </item>
+               <item>† Mrs. Mary, <hi>and</hi> Henry Law<g ref="char:EOLhyphen"/>rence <hi>Eſq;</hi>
+               </item>
+               <item>† Ralph Lawton <hi>Eſq;</hi>
+               </item>
+               <item>† Walter Laycock <hi>Eſq;</hi>
+               </item>
+               <item>† William Layer <hi>jun. Eſq;</hi>
+               </item>
+               <item>† Daniel de Ligne <hi>Eſq;</hi>
+               </item>
+               <item>† Henry Ludlow <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Lynge <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Thomas Latham,</item>
+               <item>† Mr. Henry Lee,</item>
+               <item>† Mr. Aphra St. Leger,</item>
+               <item>† Edward Leigh <hi>Dr. in Phyſick,</hi>
+               </item>
+               <item>† Mr. Francis Leigh,</item>
+               <item>† Mr. Alexander Long,</item>
+               <item>† Mr. James Long,</item>
+               <item>† Mr. Henry Lovelace,</item>
+               <item>† Mr. H. L.</item>
+               <item>† Mr. Francis Lucas,</item>
+               <item>Joſeph Lane <hi>Eſq;</hi>
+               </item>
+               <item>William Langton <hi>Eſq;</hi>
+               </item>
+               <item>William Lowndes <hi>Eſq; Secre<g ref="char:EOLhyphen"/>tary of the Treaſury,</hi>
+               </item>
+               <item>Edward Lloyd <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Frances St. Legen,</item>
+               <item>Mr. John Lade,</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> William Lamb,</item>
+               <item>Mr. John Lambe,</item>
+               <item>Mr. John Lambert,</item>
+               <item>Mr. William Lane,</item>
+               <item>Mr. William Langford,</item>
+               <item>Mr. John Lanyon,</item>
+               <item>Mr. Robert <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urie,</item>
+               <item>Mr. George Lawrence,</item>
+               <item>Mr. John Leach,</item>
+               <item>Mr. John Lee,</item>
+               <item>Mr. Godfrey Lee,</item>
+               <item>Dr. Charles Leigh,</item>
+               <item>Mr. Andrew Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raſt,</item>
+               <item>Mr. John Lepine,</item>
+               <item>Mr. Adrian Lernoult,</item>
+               <item>Mr. William Levet,</item>
+               <item>Mr. Thomas Lewellin,</item>
+               <item>Mr. Henry Lewis,</item>
+               <item>Mr. John Lions,</item>
+               <item>Mr. Charles Lippyeat,</item>
+               <item>Mr. John Long,</item>
+               <item>Mr. Francis Lovelace,</item>
+               <item>Mr. John Lovell,</item>
+               <item>Mr. William Lowde,</item>
+               <item>Mr. William Loyd,</item>
+               <item>Mrs. Elizabeth Lloyd,</item>
+               <item>Mr. William Ludſall,</item>
+               <item>Mr. John Lumbard,</item>
+               <item>Mr. Thomas Lunt,</item>
+               <item>* Mr. M. Lacoze,</item>
+               <item>* Mr. Thomas Lane,</item>
+               <item>* Dr. Emanuel Langford,</item>
+               <item>* Mr. Samuel Layfield,</item>
+               <item>* Mr. Thomas Lanier,</item>
+               <item>* Mr. John Lee <hi>of</hi> Canterbury,</item>
+               <item>* Mr. Henry Leman,</item>
+               <item>* Mr. Peter Lewis,</item>
+               <item>* Mr. Richard Lindſey,</item>
+               <item>* Mr. William Lingham,</item>
+               <item>* Mr. Henry Longe,</item>
+               <item>* Mr. Iſaac Lovel,</item>
+               <item>* Mr. Thomas Lloyd.</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>† <hi>Sir</hi> Thomas Mackworth <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Henry Marwood <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> John Morden <hi>Bar.</hi>
+               </item>
+               <item>† John Machel <hi>Eſq;</hi>
+               </item>
+               <item>† Henry Martin <hi>Eſq;</hi>
+               </item>
+               <item>† Charles Maſon <hi>Eſq;</hi>
+               </item>
+               <item>† J. M. <hi>Eſq;</hi>
+               </item>
+               <item>† John Maſters <hi>Eſq;</hi>
+               </item>
+               <item>† William Mathews <hi>Eſq;</hi>
+               </item>
+               <item>† Theodore Maurice <hi>Eſq;</hi>
+               </item>
+               <item>† John Metcalfe <hi>Eſq;</hi>
+               </item>
+               <item>† John Millecent <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Minſhull <hi>Eſq;</hi>
+               </item>
+               <item>† Lewis Monoux <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Morice <hi>Eſq;</hi>
+               </item>
+               <item>† <hi>Mr.</hi> John Madocks,</item>
+               <item>† <hi>Mr.</hi> Tho. Major,</item>
+               <item>† <hi>Mr.</hi> John de Mallenoe,</item>
+               <item>† <hi>Mrs.</hi> Katherine, Mary, <hi>and</hi> Elizabeth Marbury,</item>
+               <item>† <hi>Mr.</hi> Henry Marſh,</item>
+               <item>† <hi>Mr.</hi> Tho. Marſh <hi>of</hi> Hendon,</item>
+               <item>† <hi>Mr.</hi> Francis Martyn,</item>
+               <item>† <hi>Mr.</hi> William Maſſey,</item>
+               <item>† <hi>Mr.</hi> Hugh Merchant,</item>
+               <item>† <hi>Mr.</hi> William Meredith,</item>
+               <item>† <hi>Mr.</hi> John Meredith,</item>
+               <item>† <hi>Mr.</hi> William Metcalfe,</item>
+               <item>† <hi>Mr.</hi> Samuel Mitchel,</item>
+               <item>† <hi>Mr.</hi> Nathaniel Molineux,</item>
+               <item>† <hi>Mr.</hi> Edward Moore,</item>
+               <item>† <hi>Mr.</hi> Jeremiah Moore,</item>
+               <item>† <hi>Mr.</hi> James Morris,</item>
+               <item>† <hi>Mr.</hi> Matthew Ducy Morton,</item>
+               <item>† <hi>Mr.</hi> Samuel Moyeſton,</item>
+               <item>Richard Manſell <hi>Eſq;</hi>
+               </item>
+               <item>Nicholas Martin <hi>Eſq;</hi>
+               </item>
+               <item>Tho. Molineux <hi>Eſq;</hi>
+               </item>
+               <item>Samuel Molton <hi>Eſq;</hi>
+               </item>
+               <item>Hawton Maria Morgan <hi>Eſq;</hi>
+               </item>
+               <item>Thomas Morris <hi>Eſq;</hi>
+               </item>
+               <item>Edward Moſtin <hi>Eſq;</hi>
+               </item>
+               <item>T. M. <hi>Eſq;</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Suſanna Maddox,</item>
+               <item>
+                  <hi>Mr.</hi> John du Maiſtre,</item>
+               <item>
+                  <hi>Mr.</hi> Otho Man,</item>
+               <item>
+                  <hi>Mr.</hi> Ranulph Manning,</item>
+               <item>
+                  <hi>Mr.</hi> John Mansfield.</item>
+               <item>
+                  <hi>Mr.</hi> Nathaniel Marks,</item>
+               <item>
+                  <hi>Mr.</hi> James Markwick,</item>
+               <item>
+                  <hi>Mr.</hi> William Markwick,</item>
+               <item>
+                  <hi>Mr.</hi> John Marly,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Marſh <hi>of</hi> Kingſton;</item>
+               <item>
+                  <hi>Mr.</hi> John Marſh,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Marſh,</item>
+               <item>
+                  <hi>Mr.</hi> Nicholas Marſhall,</item>
+               <item>
+                  <hi>Mr.</hi> Peter Marſham,</item>
+               <item>
+                  <hi>Mr.</hi> Teſtard <hi>and</hi> Peter Martin,</item>
+               <item>
+                  <hi>Mr.</hi> William Martyn,</item>
+               <item>
+                  <hi>Mr.</hi> Harcourt Maſter,</item>
+               <item>
+                  <hi>Mr.</hi> William Maſſie,</item>
+               <item>
+                  <hi>Mr.</hi> George Mathews,</item>
+               <item>
+                  <hi>Mr.</hi> John Matſon,</item>
+               <item>
+                  <hi>Mr.</hi> Richard Matthew,</item>
+               <item>
+                  <hi>Mr.</hi> Matthew Mead,</item>
+               <item>
+                  <hi>Mr.</hi> William Mead,</item>
+               <item>
+                  <hi>Mr.</hi> Ann Meredith,</item>
+               <item>
+                  <hi>Mr.</hi> Chriſ. Meriwether,</item>
+               <item>
+                  <hi>Mr.</hi> Henry Merttins,</item>
+               <item>
+                  <hi>Mr.</hi> Benjamin Metcalf,</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Metcalfe,</item>
+               <item>
+                  <hi>Mr.</hi> Charles Middleton,</item>
+               <item>
+                  <hi>Mr.</hi> John Miller,</item>
+               <item>
+                  <hi>Mr.</hi> Jonathan Miles,</item>
+               <item>
+                  <hi>Mr.</hi> Charles Mitchel,</item>
+               <item>
+                  <hi>Mr.</hi> William Morland,</item>
+               <item>
+                  <hi>Mr.</hi> Robert Moore,</item>
+               <item>
+                  <hi>Mr.</hi> David Morris,</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Morris,</item>
+               <item>
+                  <hi>Mr.</hi> R. Myre,</item>
+               <item>* <hi>Dr.</hi> Charles Morton,</item>
+               <item>* <hi>Mr.</hi> Stephen Mahieu,</item>
+               <item>* <hi>Mr.</hi> John Malpas,</item>
+               <item>* <hi>Mr.</hi> John Manning,</item>
+               <item>* <hi>Mrs.</hi> Mary Marſh,</item>
+               <item>* <hi>Mr.</hi> Thomas Marſh <hi>of</hi> Cant.</item>
+               <item>* <hi>Mr.</hi> Thomas Marſhall,</item>
+               <item>* <hi>Mr.</hi> John Martin,</item>
+               <item>* <hi>Mr.</hi> Thomas Martin,</item>
+               <item>* <hi>Mr.</hi> R. Matthew <hi>of</hi> Kent,</item>
+               <item>* <hi>Mr.</hi> Daniel Mayhew,</item>
+               <item>* <hi>Mr.</hi> John May,</item>
+               <item>* <hi>Mr.</hi> Stephen Maryick,</item>
+               <item>* <hi>Mr.</hi> Richard Meriwether,</item>
+               <item>* <hi>Mr.</hi> William Meriwether,</item>
+               <item>* <hi>Mr.</hi> Edward Merry,</item>
+               <item>* <hi>Mr.</hi> Ralph Middleton,</item>
+               <item>* <hi>Mr.</hi> Henry Million,</item>
+               <item>* <hi>Mr.</hi> Philippe Moreau,</item>
+               <item>* <hi>Mrs.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Morgan,</item>
+               <item>* <hi>Mr.</hi> John Morgan,</item>
+               <item>* <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> M. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> M.</item>
+               <item>* <hi>Mr.</hi> John Muſred,</item>
+               <item>* <hi>Mr.</hi> Alexander Myers.</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>† Sir Robert Nightingale,</item>
+               <item>† Richard Nayler <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Neale <hi>Eſq;</hi>
+               </item>
+               <item>† Oliver le Neve <hi>Eſq;</hi>
+               </item>
+               <item>† Phillip Neve <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Nicholas <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Nicholls <hi>Eſq;</hi>
+               </item>
+               <item>† George Nodes <hi>Eſq;</hi>
+               </item>
+               <item>† John Noel <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Henry Neale;</item>
+               <item>† Mr. No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Neal,</item>
+               <item>† Mr. Edward le Neve,</item>
+               <item>† Mr. Charles Newcomen,</item>
+               <pb n="6" facs="tcp:178710:4"/>
+               <item>† Mr. Nathaniel Newnham,</item>
+               <item>† Mr. Hugh North,</item>
+               <item>† Mr. Richard Norton,</item>
+               <item>† Mr. Edward Noſeworthy,</item>
+               <item>Edward Nightingale <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Jonathan Netheway,</item>
+               <item>Mr. Peter le Neve,</item>
+               <item>Mr. Philip Newlin,</item>
+               <item>Mr. James Newton of <hi>Hogſden,</hi>
+               </item>
+               <item>Mr. John Nicoll,</item>
+               <item>Capt. John Nicholſon,</item>
+               <item>Mr. Jam. Newton Clerkenwell,</item>
+               <item>* <hi>The Honourable</hi> Heſter Noy,</item>
+               <item>* Dr. John Neale,</item>
+               <item>* Mr. James Nelſon,</item>
+               <item>* Mr. James Nelthorpe,</item>
+               <item>* Mr. Louis Nemery,</item>
+               <item>* Mrs. Frances Newman,</item>
+               <item>* Mr. James Norford,</item>
+               <item>* Mr. Hugh Norris,</item>
+               <item>* Mr. Joſeph Nun.</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>† Henry Oakeley <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Offley <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Newdigate Owſley,</item>
+               <item>Mr. Daniel Oliver,</item>
+               <item>Mr. Francis Olivier,</item>
+               <item>Mr. John Oſwin,</item>
+               <item>Mr. Henry Oxenden,</item>
+               <item>Mr. Richard Oxenden,</item>
+               <item>* Mr. John Ongley,</item>
+               <item>* Mr. Thomas Osborne,</item>
+               <item>* Mrs. Dorothy Osborne,</item>
+               <item>* Mr. Anthony Oughton.</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>† Sir Phillip Parker,</item>
+               <item>† Dame Ann Powel,</item>
+               <item>† Dame Eliz. Price,</item>
+               <item>† John Packer <hi>Eſq;</hi>
+               </item>
+               <item>† Anthony Palmer <hi>Eſq;</hi>
+               </item>
+               <item>† John Parran <hi>Eſq;</hi>
+               </item>
+               <item>† Reginald Peckham <hi>Eſq;</hi>
+               </item>
+               <item>† Wil iam Peirſon <hi>Eſq;</hi>
+               </item>
+               <item>† Alexander Pendarvis <hi>Eſq;</hi>
+               </item>
+               <item>† George Penny <hi>Eſq;</hi>
+               </item>
+               <item>† John Pery <hi>Eſq;</hi>
+               </item>
+               <item>† Edmund Philips <hi>Eſq;</hi>
+               </item>
+               <item>† Granado Pigget <hi>Eſq;</hi>
+               </item>
+               <item>† William Player <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Plume <hi>Dr. in Divinity,</hi>
+               </item>
+               <item>† Colonel John Plumer,</item>
+               <item>† Henry Pool <hi>Eſq;</hi>
+               </item>
+               <item>† John Poſſwheel <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Powell <hi>Eſq;</hi>
+               </item>
+               <item>† J. P. <hi>Eſq;</hi>
+               </item>
+               <item>† John Price <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Price <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. John Papworth,</item>
+               <item>† Mr. John Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giter,</item>
+               <item>† Mr. James Parker,</item>
+               <item>† Mr. John Parker,</item>
+               <item>† Mr. Thomas Pattrick,</item>
+               <item>† Mr. William Pemble,</item>
+               <item>† Mr. Renatus Petre,</item>
+               <item>† Mr. Thomas Phipps,</item>
+               <item>† Mr. Francis Pigott,</item>
+               <item>† Mr. Thomas Pilkington,</item>
+               <item>† Mr. Thomas Pitcher,</item>
+               <item>† Mr. John Platt,</item>
+               <item>† Mr. John Ponhall,</item>
+               <item>† Mr. John Pouldon,</item>
+               <item>† Mrs. Mary Preſtwich,</item>
+               <item>† Mr. Hezekiah Prichard,</item>
+               <item>† Mr. Daniel Puckle,</item>
+               <item>Tho. Pagit Dr. in Divinity,</item>
+               <item>Richard Pawlett <hi>Eſq;</hi>
+               </item>
+               <item>Robert Penwarne <hi>Eſq;</hi>
+               </item>
+               <item>Ambroſe Pudſey <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Henry Billingſly Palmer,</item>
+               <item>Mr. John Packman,</item>
+               <item>Mr. Joſeph Paice,</item>
+               <item>Mr. John Paine,</item>
+               <item>Mr. Richard Paratt,</item>
+               <item>Mr. Samuel Pargiter,</item>
+               <item>Mr. Thomas Parker,</item>
+               <item>Mr. Thomas Parry,</item>
+               <item>Mr. Jonathan Peade,</item>
+               <item>Mr. John Pearce,</item>
+               <item>Mr. Robert Pearce,</item>
+               <item>Mr. Robert Peck,</item>
+               <item>Mr. John Pemberton,</item>
+               <item>Mr. Thomas Pembruge,</item>
+               <item>Mr. William Perris,</item>
+               <item>Mr. Cary Peryn,</item>
+               <item>Mr. Thomas Petty,</item>
+               <item>Mr. Samuel Phelps,</item>
+               <item>Mr. Barthelemy Philibert,</item>
+               <item>Mr. Thomas Phillips,</item>
+               <item>Mr. James Pickering,</item>
+               <item>Mr. Tho. Pilley,</item>
+               <item>Mr. Nath. Pinnry,</item>
+               <item>Mr. Thomas Pitts,</item>
+               <item>Mr. Rowland Place,</item>
+               <item>Mr. Jean le Plaſtrier,</item>
+               <item>Mr. Robert le Plaſtrier,</item>
+               <item>Mr. John Plater,</item>
+               <item>Mr. Richard Pont,</item>
+               <item>Mr. Thomas Poore,</item>
+               <item>Mr. Henry Pope,</item>
+               <item>Mrs. Elizabeth Porter,</item>
+               <item>Mr. William Powell,</item>
+               <item>Mr. William Preſton,</item>
+               <item>Mr. John Price,</item>
+               <item>Mr. Alexand. Pryor,</item>
+               <item>Mr. Martin Puckle,</item>
+               <item>Mr. Tho. Puckle,</item>
+               <item>Mrs. Margeret Pulleyne,</item>
+               <item>* Mr. Stephen Parker,</item>
+               <item>* Mr. Robert Parking,</item>
+               <item>* Mr. Edward Paſmore,</item>
+               <item>* Mr. Thomas Peade,</item>
+               <item>* Mr. Robert Peade,</item>
+               <item>* Mr. Chriſtopher Sigiſmund Pechlin,</item>
+               <item>* Mr. John Pelham,</item>
+               <item>* Mr. William Pepper,</item>
+               <item>* Mr. Jean de la Perrelle,</item>
+               <item>* Mr. Edward Phillipps,</item>
+               <item>* Mrs. Abigal le Pin,</item>
+               <item>* Mr. Thomas Plumb,</item>
+               <item>* Mr. Charles Powell,</item>
+               <item>* Mr. Hugh Preſton,</item>
+               <item>* Mr. William Prickman,</item>
+               <item>* Mr. James Hullin de Preugne,</item>
+               <item>* Mr. Iſaac Pyke.</item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>* Mr. John Quarrindon.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>† <hi>Sir</hi> Ralph Radcliffe <hi>Kt.</hi>
+               </item>
+               <item>† Edward Radcliffe <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Ravenſcroft <hi>Eſq;</hi>
+               </item>
+               <item>† John Rayner <hi>Eſq;</hi>
+               </item>
+               <item>† Edward Rich <hi>Eſq;</hi>
+               </item>
+               <item>* William Robinſon <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Thomas Renda,</item>
+               <item>† Mr. Joſeph Reynolds,</item>
+               <item>† Mr. A. R.</item>
+               <item>† Mr. Thomas Richers,</item>
+               <item>† Mr. Richard Ridley,</item>
+               <item>† Mr. John Robinſon,</item>
+               <item>† Mr. John Rogers,</item>
+               <item>† Mr. Edmond Rolfe,</item>
+               <item>† Mr. Nicholas Roope,</item>
+               <item>† Mr. John <hi>&amp;</hi> Joſ. Roſſington,</item>
+               <item>
+                  <hi>Sir</hi> William Roberts <hi>Bar.</hi>
+               </item>
+               <item>Nicholas Richards <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Philip Ralegh,</item>
+               <item>Mr. William Ravenſcroft,</item>
+               <item>Mr. William Raymond,</item>
+               <item>Mr. Joſhua Read,</item>
+               <item>Mr. Richard Reed,</item>
+               <item>Mr. John Relfe,</item>
+               <item>Mr. Jacob Reynardſon,</item>
+               <item>Mr. Rowland Reynolds,</item>
+               <item>Mr. Chriſto. Rich,</item>
+               <item>Mrs. Mary Richard,</item>
+               <item>Mr. John Richbell,</item>
+               <item>Mr. Richard Richmond,</item>
+               <item>Mr. John Richards,</item>
+               <item>Mr. Henry Roberts,</item>
+               <item>Mr. Arthur Robinſon,</item>
+               <item>Mr. Joſeph Robinſon,</item>
+               <item>Mr. Edward Rogers,</item>
+               <item>Mr. James Rolleſton,</item>
+               <item>Mr. Thomas Rootes,</item>
+               <item>Mr. Daniel Ruſſe,</item>
+               <item>Mr. Rich. Ruſſell,</item>
+               <item>Mr. Tho. Ruſſel <hi>of</hi> Warwick,</item>
+               <item>Mr. Henry Rutty,</item>
+               <item>Mr. William de Ryck,</item>
+               <item>* Mr. Thomas Ramſden,</item>
+               <item>* Mr. R. Reynolds,</item>
+               <item>* Mr. Nicholas Roberts,</item>
+               <item>* Mr. John Roberts,</item>
+               <item>* Mr. Caleb Rocket,</item>
+               <item>* Mr. L. Rogers,</item>
+               <item>* Mrs. Mary Rogers,</item>
+               <item>* Mr. Thomas Rogers,</item>
+               <item>* Mr. Humphrey Rogers,</item>
+               <item>* Mr. John Rous,</item>
+               <item>* Mr. Andrew le Roy,</item>
+               <item>* Mr. Thomas Ruſſel.</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>† <hi>The Right Honourable</hi> Thomas <hi>Earl of</hi> Stamford,</item>
+               <item>† <hi>Sir</hi> Henry Selby <hi>Serj. at Law,</hi>
+               </item>
+               <item>† <hi>Sir</hi> Charles Sedly,</item>
+               <item>† <hi>Sir</hi> John Sparrow,</item>
+               <item>† <hi>Sir</hi> Tho. Shipwith <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Tho. Stanley <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> William Stych <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Solomon Swale <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> William Swann <hi>Bar.</hi>
+               </item>
+               <item>† <hi>Sir</hi> Gabriel de Sylvius,</item>
+               <item>† William Savage <hi>Eſq;</hi>
+               </item>
+               <item>† Tho. Scott <hi>Eſq;</hi>
+               </item>
+               <item>† William Selby <hi>Eſq;</hi>
+               </item>
+               <item>† John Shelton <hi>Eſq;</hi>
+               </item>
+               <item>† Nicholas Smythe <hi>Eſq;</hi>
+               </item>
+               <pb n="7" facs="tcp:178710:4" rendition="simple:additions"/>
+               <item>† John Speke <hi>Eſq;</hi>
+               </item>
+               <item>† Richard Stone <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Story <hi>Eſq;</hi>
+               </item>
+               <item>† Charles Stuteville <hi>Eſq;</hi>
+               </item>
+               <item>† Mrs. Suſanna St. John,</item>
+               <item>† Mr. George Saffin,</item>
+               <item>† Mr. Robert Sanders,</item>
+               <item>† Mr. Stephen Scott,</item>
+               <item>† Mr. John Sebille,</item>
+               <item>† Mr. Thomas Selby,</item>
+               <item>† Mr. George Selby,</item>
+               <item>† Mr. John Seyliard,</item>
+               <item>† Mr. Thomas Seymor,</item>
+               <item>† Mr. John Sharp,</item>
+               <item>† Mr. Richard Shelton,</item>
+               <item>† Mr. Samuel Short,</item>
+               <item>† Mr. John Shorter,</item>
+               <item>† Mr. John Singleton,</item>
+               <item>† Mr. John Smith <hi>Scrivener,</hi>
+               </item>
+               <item>† Mr. John Smith <hi>Merchant,</hi>
+               </item>
+               <item>† Mr. Symon Smith,</item>
+               <item>† Mr. George Smith,</item>
+               <item>† Mr. Bartholomew Soame,</item>
+               <item>† Mr. Richard Spencer,</item>
+               <item>† Mr. Arnold Squibb,</item>
+               <item>† Mr. Charles Squire,</item>
+               <item>† Mr. John Stafford,</item>
+               <item>† Mr. Thomas Statham,</item>
+               <item>† Mr. Humphry Steer,</item>
+               <item>† Mr. Charles Stoakes,</item>
+               <item>† Mr. Charlewood Stuckey,</item>
+               <item>† Mr. Edmond Sture,</item>
+               <item>† Mr. William Sutton,</item>
+               <item>† Mr. John Swynfen,</item>
+               <item>
+                  <hi>Sir</hi> Sebaſtian Smith,</item>
+               <item>Edward Stone <hi>Eſq;</hi>
+               </item>
+               <item>Humphry Style <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Lee Sadlier,</item>
+               <item>Mr. Norwich Salisbury,</item>
+               <item>Mr. Richard Sandys,</item>
+               <item>Mr. Nicholas Santiny,</item>
+               <item>Mr. Fr. Saville,</item>
+               <item>Mr. Richard Savory,</item>
+               <item>Mr. Benj. Scott,</item>
+               <item>Mr. Thomas Scott,</item>
+               <item>Mr. Jacob Selfe,</item>
+               <item>Mr. Nath. Senior,</item>
+               <item>Mr. William Sharpe,</item>
+               <item>Mr. George Sharples,</item>
+               <item>Mr. Thomas Shelburgh,</item>
+               <item>Mr. Thomas Shelbury,</item>
+               <item>Mr. Joſhua Shephard,</item>
+               <item>Mr. Charles Sherman,</item>
+               <item>Mr. Edmund Sherman,</item>
+               <item>Mr. John Sherwin,</item>
+               <item>Mr. William Sherwood,</item>
+               <item>Mr. William Shorter,</item>
+               <item>Mr. Henry Shrubſole,</item>
+               <item>Mr. Nathaniel Simms,</item>
+               <item>Mr. Thomas Siſum,</item>
+               <item>Mr. Joſhua Skinner,</item>
+               <item>Mr. Robert Skipper,</item>
+               <item>Mr. John Smallwel,</item>
+               <item>Mr. Edward Smith,</item>
+               <item>Mr. Humphrey Smith,</item>
+               <item>Mr. John Smith <hi>of Exon.</hi>
+               </item>
+               <item>Mr. John Smith <hi>Fenchurch-ſtreet.</hi>
+               </item>
+               <item>Mr. Thomas Smith,</item>
+               <item>Mr. Ralph Smith,</item>
+               <item>Mr. William Snelling,</item>
+               <item>Mr. Richard Soame,</item>
+               <item>Mrs. Juliana Sowersby,</item>
+               <item>Mr. John Sparow,</item>
+               <item>Mr. Joſeph Sparrow,</item>
+               <item>Mr. Abraham Spencer,</item>
+               <item>Mr. Thomas Spurway,</item>
+               <item>Mr. John Stacey,</item>
+               <item>Mr. Jeffery Staines,</item>
+               <item>Dame Mary Standiſh,</item>
+               <item>Mr. Edward Stanton,</item>
+               <item>Mr. John Stanton,</item>
+               <item>Mr. Thomas Staples,</item>
+               <item>Mr. John Staw,</item>
+               <item>Mr. Thomas Stephens,</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Stephens,</item>
+               <item>Mr. John Stevens,</item>
+               <item>Mr. Richard Stevens,</item>
+               <item>Mr. Robert Stevens,</item>
+               <item>Mr. Charles Stiſted,</item>
+               <item>Mr. Lawrence Stiſted,</item>
+               <item>Mr. Robert Stokes,</item>
+               <item>Mr. Joſeph Stone,</item>
+               <item>Mr. Samuel Storer,</item>
+               <item>Mr. Henry Strudwick,</item>
+               <item>Mr. George Styles,</item>
+               <item>Mrs. Grace Suckley,</item>
+               <item>Mr. Charles Sweeting,</item>
+               <item>* Mr. Norwich Salisbury,</item>
+               <item>* Mr. John Sammond,</item>
+               <item>* Mrs. Judith Scuteville <hi>Wid.</hi>
+               </item>
+               <item>* Mr. Robert Seale,</item>
+               <item>* Mrs. Mary Sedgley,</item>
+               <item>* Mrs. Mary &amp; Mrs. Dor. Selby,</item>
+               <item>* Mr. Chriſtopher Sheen,</item>
+               <item>* Mr. William Sheppard,</item>
+               <item>* Mrs. Elizabeth Smith,</item>
+               <item>* Mr. Henry Smith,</item>
+               <item>* Mr. Titus Smith,</item>
+               <item>* Mr. Anthony Smyth,</item>
+               <item>* Mrs. Ann Spier,</item>
+               <item>* Mr. Iſaac Stackkouſe,</item>
+               <item>* Mrs. Kath. <hi>&amp;</hi> Eliz. Stanley,</item>
+               <item>* Mr. Henry Stevenſon,</item>
+               <item>* Mrs. Mary Stokes,</item>
+               <item>* Mr. Thomas Story,</item>
+               <item>* Mrs. Elizabeth Straw,</item>
+               <item>* Mr. Richard Stretton,</item>
+               <item>* Mr. Robert Stringfellow,</item>
+               <item>* Mr. William Swan.</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>† <hi>The Right Honourable</hi> Arthur <hi>Earl of</hi> Torrington,</item>
+               <item>† Sir John Talbot <hi>Baronet,</hi>
+               </item>
+               <item>† Sir Thomas Travell,</item>
+               <item>† Sir Joſ. Tredenham,</item>
+               <item>† Francis Thacker <hi>Eſq;</hi>
+               </item>
+               <item>† Francis Thoresby <hi>Eſq;</hi>
+               </item>
+               <item>† John Thynne <hi>Eſq;</hi>
+               </item>
+               <item>† Joſeph Tily <hi>Eſq;</hi>
+               </item>
+               <item>† George Townſhend <hi>Eſq;</hi>
+               </item>
+               <item>† John Tredenham <hi>Eſq;</hi>
+               </item>
+               <item>† Charles Trevanion <hi>Eſq;</hi>
+               </item>
+               <item>† John Twiſleton <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Tyrril <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Joſeph Tayler,</item>
+               <item>† Mr. Richard Taylor,</item>
+               <item>† Mr. Godfrey Thacker,</item>
+               <item>† Mr. Robert Thomſon,</item>
+               <item>† Mr. Edward Thornycroft,</item>
+               <item>† Mr. George Tomſon,</item>
+               <item>† Mr. Thomas Tremayne,</item>
+               <item>† Mrs. Ann Treſham,</item>
+               <item>† Mr. Thomas Treſilian,</item>
+               <item>† Mr. William Trewlock,</item>
+               <item>† Mr. Thomas Truman,</item>
+               <item>† Mr. Iſaac Tully,</item>
+               <item>† Mr. John Turner,</item>
+               <item>† Mr. Elias Turner,</item>
+               <item>† Mr. Edward Turner,</item>
+               <item>† Mr. Tho. Turner <hi>of</hi> Lin<g ref="char:EOLhyphen"/>colns-Inn,</item>
+               <item>† Mr. Thomas Turner,</item>
+               <item>† Mr. William Tyndale,</item>
+               <item>John Thornicroft <hi>Eſq;</hi>
+               </item>
+               <item>George Tuthill <hi>Eſq;</hi>
+               </item>
+               <item>Mr. Gabriel Tahourdin,</item>
+               <item>Mr. Francis Tayler,</item>
+               <item>Mr. James Taylor,</item>
+               <item>Mr. John Taylor,</item>
+               <item>Mr. Thomas Taylor,</item>
+               <item>Mr. James Teſtard,</item>
+               <item>Mr. Robert Tharpe,</item>
+               <item>Mr. William Thomas,</item>
+               <item>Mr. William Thompſon,</item>
+               <item>Mr. Ralph Thoresby,</item>
+               <item>Mr. William Thornburgh,</item>
+               <item>Mrs. Elizabeth Thornycroft,</item>
+               <item>Mr. Thomas Tooke,</item>
+               <item>Mr. Thomas Tournay,</item>
+               <item>Mr. Richard Towill,</item>
+               <item>Mr. Thomas Traſſillian,</item>
+               <item>Mr. Nico. Trevanyon,</item>
+               <item>Mr. Thomas Turner,</item>
+               <item>Mr. Eſſex Turner,</item>
+               <item>* Mr. Joſeph Tardy,</item>
+               <item>* Mr. Nic. le Tavernier,</item>
+               <item>* Mr. Samuel Tayler,</item>
+               <item>* Mr. Thomas Telſon,</item>
+               <item>* Mr. William Teſhmaker,</item>
+               <item>* Mrs. Elizabeth Tilton,</item>
+               <item>* Mr. Robert Timbrell,</item>
+               <item>* Mr. Joſiah Tomlinſon,</item>
+               <item>* Mr. William Toms,</item>
+               <item>* Mr. Thomas Tonkin,</item>
+               <item>* Mr. Richard Turner,</item>
+               <item>* Mr. William Twyford,</item>
+               <item>* Mrs. Eliz. Twyne.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>† William Veirſon <hi>Eſq;</hi>
+               </item>
+               <item>† Sannibanck Veſy <hi>Eſq;</hi>
+               </item>
+               <item>† <hi>Mr.</hi> Henry Vincent,</item>
+               <item>† <hi>Mr.</hi> William Underwood,</item>
+               <item>
+                  <hi>Mr.</hi> John Vaughan,</item>
+               <item>
+                  <hi>Mr.</hi> John Verman,</item>
+               <item>
+                  <hi>Mr.</hi> William Veſy,</item>
+               <item>
+                  <hi>Mr.</hi> Jean le Clerc Virly,</item>
+               <item>* <hi>Mr.</hi> Peter Vallete,</item>
+               <item>* <hi>Mrs.</hi> Mary Vanderpoſt,</item>
+               <item>* <hi>Mr.</hi> William Vere,</item>
+               <item>* <hi>Mr.</hi> Edward Urwen.</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>† <hi>The R. H.</hi> E. <hi>C. of</hi> W.</item>
+               <item>† <hi>The Honourable the Lady</hi> V. W.</item>
+               <item>† Sir Lionel Walden,</item>
+               <item>† Sir Edmond Warcupp,</item>
+               <item>† Sir John Williams <hi>Baronet,</hi>
+               </item>
+               <item>† Sir Thomas Williams <hi>Bar.</hi>
+               </item>
+               <item>† Sir John Witterong <hi>Bar.</hi>
+               </item>
+               <item>† Sir Marmaduke Wyvill,</item>
+               <pb n="8" facs="tcp:178710:5"/>
+               <item>† Nath. Wall <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Warberton <hi>Eſq;</hi>
+               </item>
+               <item>† William Warmſley <hi>Eſq;</hi>
+               </item>
+               <item>† Thomas Wearg <hi>Eſq;</hi>
+               </item>
+               <item>† Robert Weſt <hi>Eſq;</hi>
+               </item>
+               <item>† John Weſton <hi>Eſq;</hi>
+               </item>
+               <item>† Rowland Whiddon <hi>Eſq;</hi>
+               </item>
+               <item>† William Woodman <hi>Eſq;</hi>
+               </item>
+               <item>† Iſaac Woolaſton <hi>Eſq;</hi>
+               </item>
+               <item>† Caddwaledar Wynne <hi>Eſq;</hi>
+               </item>
+               <item>† Humphrey Wyrley <hi>Eſq;</hi>
+               </item>
+               <item>† W. W. <hi>Eſq;</hi>
+               </item>
+               <item>† James Wittewrong <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. John Walkeden,</item>
+               <item>† Mr. Matthew Walter,</item>
+               <item>† Mr. Nicholas Walter,</item>
+               <item>† Mr. William Walker,</item>
+               <item>† Mr. Richard Warberton,</item>
+               <item>† Mr. Lee Warner,</item>
+               <item>† Mr. John Webb,</item>
+               <item>† Mr. Edmund Wells,</item>
+               <item>† Mr. Daniel Wharley,</item>
+               <item>† Mr. Philip Wheake,</item>
+               <item>† Mr. Abraham White,</item>
+               <item>† Mr. John Wilcocks,</item>
+               <item>† Mr. John Willford,</item>
+               <item>† Mr. Abel Wilkinſon,</item>
+               <item>† Mr. Peter Williams,</item>
+               <item>† Mr. John Wilmer,</item>
+               <item>† Mr. Robert Wolley,</item>
+               <item>† Mr. Henry Wood,</item>
+               <item>† Mr. Joſeph Woolnough,</item>
+               <item>Nathaniel Wade <hi>Eſq;</hi>
+               </item>
+               <item>John Walker <hi>Eſq;</hi>
+               </item>
+               <item>Major Samuel Weſtall,</item>
+               <item>William Wickam <hi>Eſq;</hi>
+               </item>
+               <item>Geo. Willoughby <hi>Eſq;</hi>
+               </item>
+               <item>Gilbert Wigmore <hi>Eſq;</hi>
+               </item>
+               <item>Major Thomas Webberly,</item>
+               <item>Capt. Charles Wager,</item>
+               <item>Capt. Thomas Warren,</item>
+               <item>Capt. William Watſon,</item>
+               <item>Dr. John Wright,</item>
+               <item>Mr. William Wall,</item>
+               <item>Mr. Charles Wallis,</item>
+               <item>Mr. Elias Walter,</item>
+               <item>Mr. John Warburton,</item>
+               <item>Mr. Anthony Ward,</item>
+               <item>Mr. John Ware,</item>
+               <item>Mr. Thomas Warner,</item>
+               <item>Mr. Thomas Warren,</item>
+               <item>Mr. Thomas Watſon,</item>
+               <item>Mr. William Watſon,</item>
+               <item>Mr. Nicholas Wats,</item>
+               <item>Mr. John Watts,</item>
+               <item>Mr. John Waylet,</item>
+               <item>Mr. James Wayte,</item>
+               <item>Mr. Joſeph Webb,</item>
+               <item>Mr. Thomas Weekley,</item>
+               <item>Mr. Henry Welby,</item>
+               <item>Mr. John Wells,</item>
+               <item>Mr. John Wells <hi>
+                     <g ref="char:V">Ʋ</g>pholder,</hi>
+               </item>
+               <item>Mr. Henry Weſt,</item>
+               <item>Mr. Oliver Whiddon,</item>
+               <item>Mr. Oliver Whitby,</item>
+               <item>Mr. John Whitefoot,</item>
+               <item>Mr. John Whitfeild,</item>
+               <item>Mr. Timothy Whitfield,</item>
+               <item>Mrs. Elizabeth Whitſon,</item>
+               <item>Mr. Daniel Whyte,</item>
+               <item>Mr. Samuel Wickens,</item>
+               <item>Mr. John Wilkes,</item>
+               <item>Mr. Hugh Williams,</item>
+               <item>Mr. William Williams,</item>
+               <item>Mr. Humfry Williams,</item>
+               <item>Mr. Tho. Williams,</item>
+               <item>Mr. Reeve Williams,</item>
+               <item>Mr. Miles Williamſon,</item>
+               <item>Mr. John Wilmer,</item>
+               <item>Mr. Walter Willoughby,</item>
+               <item>Mr. Samuel Wilſon,</item>
+               <item>Mr. Charles Willerton,</item>
+               <item>Mr. Paul Winckles,</item>
+               <item>Mr. Matthew Woodman,</item>
+               <item>Mr. Ezekiel Woolley,</item>
+               <item>Mr. Robert Worlidge,</item>
+               <item>Mr. John Wright,</item>
+               <item>* Mr. Thomas Wales,</item>
+               <item>* Mr. Nathan. Walker,</item>
+               <item>* Mrs. Katherine Walker,</item>
+               <item>* Mr. John Warrell,</item>
+               <item>* Mrs. Jane Warthington,</item>
+               <item>* Mr. John Waters,</item>
+               <item>* Mr. N. Webber,</item>
+               <item>* Mr. Joſeph Webſter,</item>
+               <item>* Mr. Thomas Weller,</item>
+               <item>* Mr. Zachariah Wells,</item>
+               <item>* Mr. Theodore Wells,</item>
+               <item>* Mr. James Whitehead,</item>
+               <item>* Mrs. Sarah Wildbore,</item>
+               <item>* Mr. James Williamſon,</item>
+               <item>* Mr. Thomas Winckells,</item>
+               <item>* Mr. George Wood,</item>
+               <item>* Mr. John Woodgate,</item>
+               <item>* Mr. Alexander Woodhouſe,</item>
+               <item>* Mr. John Woodroffe.</item>
+               <item>* Mr. William Wykes,</item>
+               <item>* Mr. Nathaniel Wyerſdale,</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>† William Yonge <hi>Eſq;</hi>
+               </item>
+               <item>† Mr. Humphrey Yale,</item>
+               <item>† Mr. John Young,</item>
+               <item>* Mr. James Young.</item>
+            </list>
+         </div>
+         <div type="list">
+            <head>The Names of the preſent DIRECTORS.</head>
+            <p>Viz.</p>
+            <list>
+               <item>
+                  <hi>JEffery Amhurſt</hi> Eſq;</item>
+               <item>
+                  <hi>Robert Auſtin</hi> Eſq;</item>
+               <item>Mr. <hi>Richard Blackham,</hi>
+               </item>
+               <item>Sir <hi>John Bolles</hi> Bar.</item>
+               <item>Mr. <hi>Theophilus Boughey,</hi>
+               </item>
+               <item>Mr. <hi>John Briſcoe,</hi>
+               </item>
+               <item>
+                  <hi>William Brockman</hi> Eſq;</item>
+               <item>
+                  <hi>Chriſtopher Davies</hi> Eſq;</item>
+               <item>Sir <hi>Matthew Dudley</hi> Bar.</item>
+               <item>Mr. <hi>John Emilie,</hi>
+               </item>
+               <item>Mr. <hi>John Garrat,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gooding</hi> Serjeant at Law,</item>
+               <item>The Honourable <hi>Bernard Granville</hi> Eſq;</item>
+               <item>Mr. <hi>Robert Heyſham,</hi>
+               </item>
+               <item>Mr. <hi>George Juyce,</hi>
+               </item>
+               <item>
+                  <hi>George Langton</hi> Eſq;</item>
+               <item>
+                  <hi>Ralph Lawton</hi> Eſq;</item>
+               <item>
+                  <hi>John Metcalfe</hi> Eſq;</item>
+               <item>Sir <hi>John Morden</hi> Bar.</item>
+               <item>
+                  <hi>Thomas Neale</hi> Eſq;</item>
+               <item>
+                  <hi>Edward Le Neve</hi> Eſq;</item>
+               <item>Mr <hi>John Pargiter,</hi>
+               </item>
+               <item>Col. <hi>John Plumer,</hi>
+               </item>
+               <item>
+                  <hi>Alexander Pendarvis</hi> Eſq;</item>
+               <item>
+                  <hi>John Pery</hi> Eſq;</item>
+               <item>Sir <hi>Ralph Radcliffe</hi> Kt.</item>
+               <item>Sir <hi>Henry Selby</hi> Serjeant at Law,</item>
+               <item>Mr. <hi>John Smith</hi> Scrivener,</item>
+               <item>Mr. <hi>Arnold Squib,</hi>
+               </item>
+               <item>Mr. <hi>John Stafford,</hi>
+               </item>
+               <item>Sir <hi>John Talbot</hi> Bar.</item>
+               <item>
+                  <hi>Joſeph Tily</hi> Eſq;</item>
+               <item>Mr. <hi>John Turner,</hi>
+               </item>
+               <item>
+                  <hi>Robert Weſt</hi> Eſq;</item>
+               <item>Mr. <hi>Abel Wilkinſon,</hi>
+               </item>
+               <item>Mr. <hi>Robert Wolley,</hi>
+               </item>
+               <item>
+                  <hi>William Young</hi> Eſq;</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
